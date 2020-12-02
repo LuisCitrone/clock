@@ -1,13 +1,11 @@
 @font-face {
     font-family: 'Cyberverse';
-    src: url('font/Cyberverse.eot?#') format('embedded-opentype'),
-    url('font/Cyberverse.woff') format('woff'),
-    url('font/Cyberverse.ttf') format('truetype');
+    src: url('/clock/css/font/Cyberverse\ Condensed\ Italic.otf')
 }
 
 html {
     font-family: 'Cyberverse', 'Times New Roman', Times, serif;
-    font-size: 100px;
+    font-size: 220px;
     letter-spacing: .2rem;
     height: 100%;
     margin: 0;
